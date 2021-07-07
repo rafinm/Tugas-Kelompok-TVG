@@ -1,0 +1,24 @@
+Program Transformasi 3D
+
+Anggota Kelompok:
+1. Anas Syahirul Alim
+   NIM: 19/439809/TK/48539
+
+2. Roby Attoillah
+   NIM: 19/444068/TK/49264
+
+3. T Rafi N M
+   NIM: 19/439823/TK/48553
+
+
+============= CATATAN PENTING ==============
+
+Jika file .exe tidak bisa dibuka (error), silakan membuka file melewati link Google Colabs berikut :
+
+https://colab.research.google.com/drive/1aH79HFrBHsC_d5YBNsjMLa96iFbsrlcz?usp=sharing
+
+====== CARA MENJALANKAN PROGRAM DI GOOGLE COLABORATIONS ======
+
+1. Pilih tab "Runtime" (di toolbar bagian atas)
+2. Klik "Run all"
+3. Program berhasil dijalankan
